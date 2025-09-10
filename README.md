@@ -1,2 +1,2 @@
 # Chongyi
-AClab macht alles in ordnung !
+ACLab macht alles in ordnung.
