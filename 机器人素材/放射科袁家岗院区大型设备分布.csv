@@ -1,0 +1,41 @@
+楼栋,楼层,设备,厂商,型号,规格,内线电话
+1号楼,1楼,CT6,明峰,ScintCare778Honor,62排124层,2151
+1号楼,1楼,MR6,GE,750W,3.0T MRI,2151
+1号楼,11楼,移动CT,三星,NL3000,床旁头CT,无
+1号楼,胸外ICU/神外ICU（11楼）、重症医学ICU（17楼）,床旁DR1,岛津,mobile dart evolution ,有线平板探测器,胸外ICU（1010）、神外ICU（1011）、重症医学ICU（1205），胸外（1140）11楼、神外（1145）11楼、重症医学科ICU（原外科监护室）17楼
+,,,,,,
+2号楼,负1楼,CT1,西门子,perspective,64排128层,2230
+2号楼,负1楼,CT8,赛诺威盛,Insitum 32,32排64层,2213
+2号楼,负1楼,DR1,柯尼卡美能达,AeroDR C80,动态平板,2225
+2号楼,负1楼,DR2,柯达/锐柯,DRX-Evolution,无线平板探测器,2985
+2号楼,负1楼,DR3,西门子,Multitom Rax,,2225
+2号楼,负1楼,乳腺DR,西门子,Inspiration,,2244
+2号楼,负1楼,乳腺CBCT,科宁,科宁 KBCT-1000,,2244
+2号楼,负1楼,DSA1,西门子DSA,Artist Z Ⅲ ceiling,大平板数字减影血管机,2310
+2号楼,1楼,CT4,佳能,Aquilion ONE PureViSION,320排，640层CT,2631
+2号楼,1楼,MR4,西门子,Skyral,3.0T MRI,2631
+2号楼,呼吸内科ICU（16楼）、神内ICU（7楼）,床旁DR2,岛津,mobile dart evolution ,有线平板探测器,呼吸内科ICU（2680）、神内ICU（2007），呼吸内科ICU（16楼，2680）、神内科ICU（7楼，2007）
+,,,,,,
+3号楼,1楼,CT2,GE,discovery 750,"64排128层,二代能谱CT",2655
+3号楼,1楼,MR1,联影,UMR660,1.5T MRI,2750
+3号楼,1楼,MR2,联影,UMR790,3.0T MRI,2027
+3号楼,1楼,MR5,联影,UMR660,1.5T MRI,2874
+3号楼,1楼,口腔DR,soredex,Soredex INTR,,2925
+3号楼,1楼,口腔CBCT,卡瓦,卡瓦  i-cat 17-19,,2925
+,,,,,,
+5号楼B栋,1楼,CT3,西门子,FLASH CT,128 x 0.6 mm，双源CT,1642
+5号楼B栋,1楼,MR3,西门子,ESSENSA,1.5T MRI,1679
+5号楼B栋,1楼,DSA4,西门子,Artis ZEE Ceiling,大平板数字减影血管机,1718
+5号楼B栋,2楼,CT5,西门子,Force CT,384 (2 × 192) slices，双源,1748
+5号楼B栋,3楼,DSA2,GE,IGS 6,双C中板数字减影血管机,1430
+5号楼B栋,3楼,DSA3,飞利浦,FD10,心血管专用小平板血管机,1430
+5号楼B栋,3楼,DSA5,飞利浦,FD20,大平板数字减影血管机,1794
+5号楼B栋,3楼,DSA6,GE,IGS 520,心血管专用小平板血管机,1794
+5号楼B栋,3楼,ERCP,西门子,Luminos Agile Max,ERCP专用机,1728
+5号楼B栋,2楼,多功能胃肠机,岛津,sonialvision safire 17,,无
+5号楼B栋,4楼,体检DR1,岛津,Radspeed MC DR,,1703
+5号楼B栋,5楼,体检DR2,岛津,Radspeed MC DR,,1700
+5号楼B栋,中心ICU（6楼）、心内科ICU（12楼）、全科医学ICU（19楼）,床旁DR3,迈瑞,迈瑞 mobieye 700t,无线平板探测器,中心ICU（1736）、心内科ICU（1512）、全科医学ICU（1519），中心ICU（6楼，1736、1760）、心内科ICU（12楼，）、全科医学ICU（19楼，）
+,,,,,,
+6号楼旁,,车载CT,东软,NeuViz Prime CT,64排128层,无
+,,,,,,
